@@ -5,7 +5,7 @@
 
 
 print('Halo Dunia !')
-
+print('Belajar AI !')
 
 
 # In[ ]:
