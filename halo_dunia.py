@@ -5,8 +5,8 @@
 
 
 print('Halo Dunia !')
-print('Belajar AI !')
-
+print('Belajar ML !')
+print('Yes !')
 
 # In[ ]:
 
